@@ -100,11 +100,11 @@ D:\KaliLinux\
 
 ## VirtualBox Configuration
 
-![VirtualBox Manager](images/virtualbox-manager.png)
+![VirtualBox Manager](virtualbox-manager.png)
 
 ## Kali Linux Desktop
 
-![Kali Desktop](images/kali-desktop.png)
+![Kali Desktop](kali-desktop.png)
 
 ---
 
