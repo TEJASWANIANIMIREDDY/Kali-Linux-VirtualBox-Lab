@@ -134,9 +134,8 @@ Kali-Linux-VirtualBox-Lab/
 │
 ├── README.md
 │
-└── images/
-    ├── virtualbox-manager.png
-    └── kali-desktop.png
+├── virtualbox-manager.png
+└── kali-desktop.png
 ```
 
 ---
